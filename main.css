@@ -1,0 +1,39 @@
+
+/* Body Style */
+ body {
+    background-color: rgba(104, 57, 110, 0.692);
+    font: size 1.1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    width: 50%;
+
+ }
+
+/* Header Style */
+h1 {
+    background-color: rgb(114, 150, 170);
+    font: size 1.1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    width: 50%;
+}
+
+/* Nav Style */	
+nav {
+   background-color: rgb(114, 150, 170);
+   font: size 1.1em;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: blueviolet;
+   width: 50%;
+
+}
+
+/* Footer Style */
+
+ footer  { 
+    background-color: rgb(114, 150, 170);;
+    font: size 1.1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    width: 50%; 
+}
